@@ -4,10 +4,9 @@
 
 
 - 👋 Hi, I’m @Haonan-DONG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 3D computer vision and photogrammetry.
+- 🌱 I’m currently learning topics about fisheye application, indoor reconstruction and 3D neural rendering.
+- 📫 How to reach me. My e-mail is august_dong@163.com / haonandong@whu.edu.cn
 
 <!---
 Haonan-DONG/Haonan-DONG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
