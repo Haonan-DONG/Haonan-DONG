@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Haonan-DONG
 - 👀 I’m interested in 3D computer vision and photogrammetry.
-- 🌱 I’m currently learning topics about fisheye application, indoor reconstruction and 3D neural rendering.
+- 🌱 I’m currently learning topics about indoor scene reconstruction and 3D neural rendering.
 - 📫 How to reach me. My e-mail is august_dong@163.com / haonandong@whu.edu.cn
 
 <!---
